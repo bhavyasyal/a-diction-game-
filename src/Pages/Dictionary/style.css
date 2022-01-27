@@ -1,0 +1,38 @@
+.search-container {
+    max-width: 600px;
+    margin: 50px auto;
+    border: 5px solid black;
+    border-radius: 8px;
+    padding: 20px;
+
+}
+.input-container {
+    border: none;
+    width: 200px;
+    border-bottom: 1px solid;
+    margin-right: 20px;
+    outline: none
+}
+
+.game-link{
+    margin-top:20px;
+    
+}
+
+.game-link a{
+    text-decoration: none;
+    color:rgb(255, 174, 0);
+
+}
+
+.game-link a:hover{
+    text-decoration:underline;
+}
+
+.submit-button{
+    background-color: rgb(255, 174, 0);
+    border:none;
+    color:white;
+    border-radius: 8px;
+    height:25px;
+}
